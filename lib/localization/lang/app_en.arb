@@ -1,0 +1,22 @@
+{
+    "english_lang": "English",
+    "welcome": "Welcome",
+
+    "sign_in": "Sign in",
+    "sign_in_text": "Not in the system? ",
+    "sign_in_with_google": "Sign in with Google",
+    "sign_out": "Sign out",
+
+    "register": "Sign up",
+    "registration": "Registration",
+    "in_register_text": "Already have an account? ",
+    "register_with_google": "Sign up with Google",
+
+    "username": "Username",
+    "password": "Password",
+    "phone_number": "Phone number",
+
+    "settings": "Settings",
+    "language": "Language",
+
+}

@@ -1,0 +1,22 @@
+{
+    "english_lang": "Русский",
+    "welcome": "Добро пожаловать",
+
+    "sign_in": "Войти",
+    "sign_in_text": "Не зарегистрированы ?",
+    "sign_in_with_google": "Войти через Google",
+    "sign_out": "Выйти",
+
+    "register": "Зарегистрироваться",
+    "registration": "Регистрация",
+    "in_register_text": "Уже есть аккаунт?",
+    "register_with_google": "Регистрация через Google",
+
+    "username": "Логин",
+    "password": "Пароль",
+    "phone_number": "Номер телефона",
+
+    "settings": "Настройки",
+    "language": "Язык",
+
+}

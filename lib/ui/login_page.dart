@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:sfera_test_task/ui/main_button_view.dart';
 import 'package:sfera_test_task/ui/register_page.dart';
+import 'package:flutter_localizations/flutter_localizations.dart';
 
 class LoginPage extends StatelessWidget {
   const LoginPage({super.key});
